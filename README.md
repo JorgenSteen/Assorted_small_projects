@@ -3,3 +3,4 @@ This repository contains projects which do not fit under a larger category and i
 
 Current content:
 1. Led Matrix
+2. Atmel Breakout board
