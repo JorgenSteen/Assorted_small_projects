@@ -1,0 +1,5 @@
+flip Silkscreen bak
+utvid dc jack hul for V+
+Lag et tydelig merk for retningen til MCU
+LED er PD7 IKKE pd5
+Bytt USB footprint
