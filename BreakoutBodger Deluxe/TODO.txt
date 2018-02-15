@@ -3,4 +3,4 @@ utvid dc jack hul for V+
 Lag et tydelig merk for retningen til MCU
 LED er PD7 IKKE pd5
 Bytt USB footprint
-Legge til 3 lenger footprint istedne for 2
+Legge til 3 lenger footprint istedne for 2 og utvide trace
