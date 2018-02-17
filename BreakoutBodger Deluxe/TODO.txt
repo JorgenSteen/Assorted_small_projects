@@ -6,3 +6,4 @@ Bytt USB footprint
 Legge til 3 lenger footprint istedne for 2 og utvide trace
 Tydlig merke for ISP header.
 2221 - bytt RX TX og kobl av reset
+Bytte opamp pakke sop8 til sot23 5
