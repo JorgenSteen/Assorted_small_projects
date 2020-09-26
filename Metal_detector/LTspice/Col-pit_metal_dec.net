@@ -1,0 +1,19 @@
+* C:\Users\jstee\Documents\GitHub\Assorted_small_projects\Metal_detector\LTspice\Col-pit_metal_dec.asc
+C1 Vout N003 10n
+C2 N003 N001 10n
+C3 N002 N001 10n
+L1 Vout N001 10m
+R1 VCC Vout 2.2k
+R2 N003 0 470
+V1 VCC 0 5
+R3 N002 0 10k
+R4 VCC N002 39k
+R5 Vout 0 40k
+R6 N001 0 100k
+Q1 Vout N002 N003 0 2N5769
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\jstee\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 0 1m 0 1u startup
+.backanno
+.end
